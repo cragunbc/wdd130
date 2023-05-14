@@ -27,15 +27,9 @@ main section{
 
 #background {
     height: 725px;
+    background-color: #03045E;
 }
 
-.icon {
-    width: 80px;
-}
-
-#hero-img {
-    width: 100%;
-}
 
 body {
     background-color: lightblue;
@@ -72,10 +66,6 @@ nav a:hover {
     color: white;
 }
 
-#background {
-    background-color: #03045E;
-}
-
 .msg {
     background-color: #0077B6;
 }
@@ -108,6 +98,18 @@ footer a {
 
 footer a:hover {
     color: black;
+}
+
+.icon {
+    width: 80px;
+}
+
+.logo {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
 }
 
 footer p a:hover {
