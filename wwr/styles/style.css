@@ -51,7 +51,7 @@ nav a:hover {
 }
 
 .join {
-    background-color: slategray;
+    background-color: white;
     color: black;
     text-decoration: none;
 }
@@ -117,5 +117,5 @@ footer p a:hover {
 }
 
 footer p {
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
