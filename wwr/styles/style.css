@@ -244,11 +244,15 @@ main section img {
     text-align: center;
     font-size: 60px;
     margin-top: 5px;
+    color: white;
+    font-family: Caveat, Righteous, Roboto sans-serif;
+
 }
 
 #top {
     display: inline-block;
     margin: 0 auto;
+    font-family: Caveat, Righteous, Roboto sans-serif;
 }
 .second-grid {
     display: grid;
@@ -259,6 +263,8 @@ main section img {
     font-weight: bold;
     font-size: 40px;
     text-align: center;
+    font-family: Righteous, Caveat, Roboto sans-serif;
+
 }
 
 #river1 {
@@ -269,6 +275,8 @@ main section img {
     background-color: white;
     margin: 10px;
     box-shadow: 10px 10px 10px gray;
+    font-family: Roboto, Caveat, Righteous, Roboto sans-serif;
+
 }
 
 #river2 {
@@ -297,6 +305,7 @@ main section img {
     text-align: center;
     padding: 50px;
     font-size: 55px;
+    font-family: Caveat, Righteous, Roboto sans-serif;
 }
 
 .bottom {
