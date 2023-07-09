@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #8d99ae   ;
   --secondary-color: #2b2d42 ;
   --accent1-color: #ef233c;
-  --accent2-color: white;
+  --accent2-color: lightgray;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Monoton";
