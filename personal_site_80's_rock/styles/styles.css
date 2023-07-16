@@ -226,3 +226,61 @@ footer .social img {
 .links a:hover {
     color: red;
 }
+
+.third_main_body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding: 10px;
+    margin: 50px;    
+}
+
+.third_paragraph_1 {
+    grid-column: 1/6;
+    grid-row: 1/1;
+    text-align: center;
+    font-size: 40px;
+    background-color: lightgray;
+    border: 10px solid #2b2d42;
+    padding: 20px;
+    margin-right: 60px;
+}
+
+.bon_jovi_band {
+    display: inline-block;
+    width: 500%;
+    grid-column: 5/8;
+    grid-row: 1/2;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 150px;
+}
+
+.third_paragraph_2 {
+    grid-column: 3/9;
+    grid-row: 2/3;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+.bon_jovi_logo {
+    display: inline-block;
+    width: 100%;
+    grid-column: 1/5;
+    grid-row: 4/4;
+    margin-bottom: 200px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px white;
+}
+
+.third_paragraph_3 {
+    display: inline-block;
+    grid-column: 6/11;
+    grid-row: 3/5;
+    font-size: 40px;
+    background-color: lightgray;
+    border: 10px solid #2b2d42;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
