@@ -70,7 +70,7 @@ body {
     text-align: center;
     margin: auto;
     font-size: 40px;
-    color: white;
+    color: black;
     padding-bottom: 60px;
 }
 
@@ -84,7 +84,7 @@ body {
     text-align: center;
     margin-bottom: 70px;
     border: 10px solid #2b2d42;
-    background-color: lightgray;
+    background-color: white;
 }
 
 .first_paragraph_2 {
@@ -97,7 +97,7 @@ body {
     margin: auto;
     margin-right: 100px;
     border: 10px solid #2b2d42;
-    background-color: lightgray;
+    background-color: white;
 }
 
 .first_paragraph_3 {
@@ -110,7 +110,7 @@ body {
     text-align: center;
     margin-top: 60px;
     border: 10px solid #2b2d42;
-    background-color: lightgray;
+    background-color: white;
 }
 
 #additional_picture {
@@ -157,7 +157,7 @@ footer .social img {
     text-align: center;
     margin: auto;
     font-size: 40px;
-    color: white;
+    color: black;
 }
 
 .second_main_body {
@@ -182,7 +182,7 @@ footer .social img {
     grid-row: 1/1;
     text-align: center;
     font-size: 40px;
-    background-color: lightgray;
+    background-color: white;
     border: 10px solid #2b2d42;
     padding: 20px;
     margin-right: 60px;
@@ -201,7 +201,7 @@ footer .social img {
     grid-row: 3/4;
     font-size: 40px;
     text-align: center;
-    background-color: lightgray;
+    background-color: white;
     border: 10px solid #2b2d42;
     margin-top: 50px;
     padding: 20px;
@@ -210,7 +210,7 @@ footer .social img {
 .links {
     color: black;
     text-decoration: none;
-    background-color: lightgray;
+    background-color: white;
     display: inline-block;
     padding: 15px;
     padding-left: 10px;
@@ -239,7 +239,7 @@ footer .social img {
     grid-row: 1/1;
     text-align: center;
     font-size: 40px;
-    background-color: lightgray;
+    background-color: white;
     border: 10px solid #2b2d42;
     padding: 20px;
     margin-right: 60px;
@@ -277,7 +277,7 @@ footer .social img {
     grid-column: 6/11;
     grid-row: 3/5;
     font-size: 40px;
-    background-color: lightgray;
+    background-color: white;
     border: 10px solid #2b2d42;
     margin-top: 50px;
     padding-left: 40px;
